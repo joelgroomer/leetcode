@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Reverse String'/>
+        <page name='Nice Subarrays Count'/>
+        <page name='Maximum Average Subarray 1'/>
+        <page name='Max Consecutive Ones'/>
+        <page name='Running Sum of 1D Array'/>
+        <page name='Minimum Value to Get Positive Step by Step Sum'/>
+    </pages>
+</playground>
