@@ -7,5 +7,6 @@
         <page name='Max Consecutive Ones'/>
         <page name='Running Sum of 1D Array'/>
         <page name='Minimum Value to Get Positive Step by Step Sum'/>
+        <page name='K Radius Subarray Averages'/>
     </pages>
 </playground>
